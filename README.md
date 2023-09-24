@@ -10,4 +10,4 @@
 * Prerequisites for building such an amazing website
 
 * Pleasant animations to complex gradients
-* Enhancing Reusability with React Functional ComponentsOrganizing 
+* Enhancing Reusability with React Functional Components 
