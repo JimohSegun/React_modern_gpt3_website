@@ -1,7 +1,7 @@
 # Modern UI/UX  GPT3 Website
  
 
-* I built using React.js
+# I built using React.js
 
 * Quick start
 
