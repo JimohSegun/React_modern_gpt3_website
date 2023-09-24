@@ -5,9 +5,9 @@
 
 * Quick start
 
-$ npm start
+* $ npm start
 
-*Prerequisites for building such an amazing website
+* Prerequisites for building such an amazing website
 
-*Pleasant animations to complex gradients
-*Enhancing Reusability with React Functional ComponentsOrganizing 
+* Pleasant animations to complex gradients
+* Enhancing Reusability with React Functional ComponentsOrganizing 
